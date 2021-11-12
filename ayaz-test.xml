@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardealer>
+  <lastupdate>2021-11-12T12:45:37Z</lastupdate>
+  <vehicles>
+    <vehicle>
+      <unique_id>1000623</unique_id>
+      <description>Opel Corsa Used Car.gr integration test</description>
+      <vtype>car</vtype>
+      <category_id>11</category_id>
+      <make_id>208</make_id>
+      <model_id>630</model_id>
+      <variant>Corsa D 1,2</variant>
+      <price>6000</price>
+      <wholesale>0</wholesale>
+      <multichild_price>0</multichild_price>
+      <price_parked>0</price_parked>
+      <condition>Μεταχειρισμένο</condition>
+      <crashed>false</crashed>
+      <regiyear>2021</regiyear>
+      <regimonth>10</regimonth>
+      <power>120</power>
+      <engine>1400</engine>
+      <mileage>45025</mileage>
+      <fueltype>Πετρέλαιο</fueltype>
+      <color>Μαύρο</color>
+      <transmission>semiauto</transmission>
+      <seats>4</seats>
+      <numplate>unknown</numplate>
+      <doors>4</doors>
+      <features>
+        <feature>12</feature>
+        <feature>160</feature>
+      </features>
+      <photos>
+      </photos>
+      <previous_owners>0</previous_owners>
+      <interior_type>Δερματίνη</interior_type>
+    </vehicle>
+    <vehicle>
+      <unique_id>1000622</unique_id>
+      <description>200</description>
+      <vtype>car</vtype>
+      <category_id>13</category_id>
+      <make_id>196</make_id>
+      <model_id>3339</model_id>
+      <variant>GLA 200</variant>
+      <price>350000</price>
+      <wholesale>0</wholesale>
+      <multichild_price>0</multichild_price>
+      <price_parked>1000</price_parked>
+      <condition>Καινούριο</condition>
+      <crashed>false</crashed>
+      <regiyear>2021</regiyear>
+      <regimonth>10</regimonth>
+      <power>100</power>
+      <engine>1948</engine>
+      <mileage>1000</mileage>
+      <fueltype>Πετρέλαιο</fueltype>
+      <color>Κόκκινο</color>
+      <transmission>automatic</transmission>
+      <seats>4</seats>
+      <numplate>unknown</numplate>
+      <doors>4</doors>
+      <fuel_city>9</fuel_city>
+      <fuel_motorway>15</fuel_motorway>
+      <fuel_mixed>10</fuel_mixed>
+      <features>
+        <feature>26</feature>
+        <feature>155</feature>
+      </features>
+      <photos>
+      </photos>
+      <previous_owners>1</previous_owners>
+      <interior_type>Ύφασμα</interior_type>
+    </vehicle>
+  </vehicles>
+</cardealer>
